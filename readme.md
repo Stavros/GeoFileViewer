@@ -21,5 +21,5 @@ You 'll need to install Google Play Services following this guide (http://develo
 
 ## Licence
 
-Copyright (c) 2013 Stavros Kalapothas (aka Stevaras) skalapothas [at] gmail.com.
+Copyright (c) 2013 Stavros Kalapothas (aka Stevaras) <skalapothas@gmail.com>.
 It is free software, and may be redistributed under the terms of the GNU Licence.
