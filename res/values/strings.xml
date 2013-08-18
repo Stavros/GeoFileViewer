@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoFileViewer</string>
+    <string name="submit_btn">Submit</string>
+    <string name="about_msg">GeoFileViewer created by Stavros Kalapothas aka Stevaras</string>
+    <string name="about">About</string>
+    <string name="ok">OK</string>
+    <string name="splash_desc">SplashScreen</string>
+    <string name="tab1_title">Map</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="show">Show loaded Text Here!</string>
+</resources>
